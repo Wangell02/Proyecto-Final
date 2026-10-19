@@ -1,0 +1,4 @@
+nro_grupo,nombre_grupo,lider,clasificacion,codigo_rh,nombre_investigador,categoria_investigador,titulo_producto,anio,tipo_producto
+COL001,Grupo Alfa,Juan Perez,A,001,Juan Perez,Senior,Articulo de Investigacion Alfa,2024,Articulo
+COL001,Grupo Alfa,Juan Perez,A,002,Maria Lopez,Junior,Segundo Articulo Alfa,2023,Articulo
+COL002,Grupo Beta,Carlos Ruiz,B,003,Carlos Ruiz,Asociado,Software de Simulacion Beta,2022,Software

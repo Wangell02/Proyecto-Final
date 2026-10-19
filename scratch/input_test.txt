@@ -1,0 +1,10 @@
+4
+3
+scratch/test_mixto.pdf
+
+5
+3
+1
+
+4
+6

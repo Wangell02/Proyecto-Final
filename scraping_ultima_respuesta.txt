@@ -1,0 +1,89 @@
+ESTADO	OK
+TIPO	INVESTIGADOR
+INVESTIGADOR	0000494917	Adith Bismarck Pérez Orozco		https://orcid.org/0000-0002-2149-1625	Universidad De Santander - Campus Valledupar		Valledupar	Investigador Asociado (I)		1
+NOMBRE_CITACIONES	PÉREZ OROZCO, ADITH BISMARCK
+NACIONALIDAD	Colombiana
+SEXO	Masculino
+ESTADO_PAR_EVALUADOR	Par evaluador reconocido por Minciencias.
+RESEARCHER_ID	https://publons.com/researcher/2024592/adith-b-perez/
+AUTOR_ID_SCOPUS	
+GOOGLE_SCHOLAR	https://scholar.google.com/citations?user=7DUEVWAAAAAJ&hl=es
+RESEARCHGATE	https://www.researchgate.net/profile/Adith-Perez
+ACADEMIA_EDU	https://cvudes.academia.edu/AdithPerez
+MENDELEY	https://www.scopus.com/authid/detail.uri?authorId=57189246532
+LINKEDIN	https://www.linkedin.com/in/adith-p%C3%A9rez-509582120/
+REPOSITORIO_INSTITUCIONAL	https://repositorio.udes.edu.co/browse?type=author&value=P%C3%A9rez+Orozco%2C+Adith+Bismarck&value_lang=spa
+IDIOMA	Idioma | Habla | Escribe | Lee | Entiende
+IDIOMA	Español | Bueno | Bueno | Bueno | Bueno
+IDIOMA	Inglés | Bueno | Bueno | Bueno | Bueno
+IDIOMA	Francés | Bueno | Bueno | Bueno | Bueno
+AREA_CONOCIMIENTO	Ciencias Naturales -- Computación y Ciencias de la Información -- Ciencias de la Computación
+AREA_CONOCIMIENTO	Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Ingeniería Industrial
+LINEA_INVESTIGACION	Metodos Formales, Activa: Si
+LINEA_INVESTIGACION	Inteligencia Artificial, Activa: Si
+LINEA_INVESTIGACION	Sistemas Multi-Agentes, Activa: Si
+LINEA_INVESTIGACION	Robótica aplicada al agro, Activa: Si
+LINEA_INVESTIGACION	Reconocimiento de Patrones, Activa: Si
+FORMACION	Doctorado Ecole Centrale París Doctorat en Informatique Febrerode2010 - de Validation et Verification des systems repaties pour methodes formeles
+FORMACION	Doctorado Universidad Dr. Rafael Belloso Chacín Doctorado en Ciencias Mencion Gerencia Septiembrede2015 - Mayode 2018 Sistemas Multi-Agente como potenciadores de la cooperación organizacional en medianas empresas.
+FORMACION	Maestría/Magister PONTIFICIA UNIVERSIDAD JAVERIANA MAESTRIA EN INGENIERIA ELECTRONICA Enerode2004 - Septiembrede 2008 Tecnicas de Aprendizaje Aplicadas a Estrategias de Cooperación
+FORMACION	Pregrado/Universitario PONTIFICIA UNIVERSIDAD JAVERIANA INGENIERIA DE SISTEMAS Enerode1997 - de 2003 Cooperación en Sistemas Multiagente; Un Caso de Estudio RoboCup
+FORMACION	Perfeccionamiento Centro Interdisciplinario de Estudios Sobre Desarrollo Programa Profesionales en formulación, ejecución y evaluación de proyectos de desarrollo Marzode2022 - Septiembrede 2022
+FORMACION	Perfeccionamiento UNIVERSIDAD DE SANTANDER Articulación docencia e Investigación Científica Octubrede2024 - Enerode 2025
+EXPERIENCIA	UNIVERSIDAD DE SANTANDER Dedicación: 30 horas Semanales Agosto de 2013 de
+EXPERIENCIA	Universidad De Santander - Campus Valledupar Dedicación: 40 horas Semanales Agosto de 2013 Diciembre de 2020
+EXPERIENCIA	UNIVERSIDAD POPULAR DEL CESAR Dedicación: 40 horas Semanales Febrero de 2014 Diciembre de 2020
+EXPERIENCIA	PONTIFICIA UNIVERSIDAD JAVERIANA Dedicación: 40 horas Semanales Agosto de 2004 Agosto de 2013 Actividades de investigación - Investigación y Desarrollo - Titulo: Profesor Investigador Agosto 2004 Agosto 2013
+EXPERIENCIA	GDF Suez Dedicación: 40 horas Semanales Febrero de 2010 Febrero de 2013
+EXPERIENCIA	Ecole Centrale París Dedicación: 40 horas Semanales Febrero de 2010 Febrero de 2013 Actividades de investigación - Investigación y Desarrollo - Titulo: Validación y Verificación de Sistemas Distribuidos Febrero 2010 Febrero 2013
+EXPERIENCIA	PONTIFICIA UNIVERSIDAD JAVERIANA Dedicación: 48 horas Mensuales Enero de 2004 Agosto de 2005 Actividades de administración - Miembro de consejo de centro - Cargo: Asistente de Carrera Enero de 2004 Junio de 2004 - Miembro de consejo de centro - Cargo: Profesor Tiempo Completo Agosto de 2004 de - Miembro de consejo de centro - Cargo: Profesor Hora Catedra Enero de 2004 Junio de 2004 - Miembro de consejo de centro - Cargo: Coordinador de Trabajos de grado y Practicas Julio de 2004 Agosto de 2005
+EXPERIENCIA	Ingeniería de Sistemas Dedicación: 0 horas Semanales Julio de 2004 Julio de 2005 Actividades de administración - Dirección y Administración - Cargo: Coordinador de Trabajos de Grado y Practicas Profesionales Julio de 2004 Julio de 2005 Actividades de investigación - Investigación y Desarrollo - Titulo: Enero 2006
+EXPERIENCIA	Investigación y Desarrollo Dedicación: 0 horas Semanales Noviembre de 2002 Diciembre de 2003 Actividades de investigación - Investigación y Desarrollo - Titulo: SMS Noviembre 2002 Diciembre 2003 - Investigación y Desarrollo - Titulo: SVS Noviembre 2002 Diciembre 2003 - Investigación y Desarrollo - Titulo: Metro de Medellin Noviembre 2002 Diciembre 2003 - Investigación y Desarrollo - Titulo: Banco Ganadero Noviembre 2002 Diciembre 2003 - Investigación y Desarrollo - Titulo: Caracol Noviembre 2002 Diciembre 2003
+EXPERIENCIA	Interseg Ltda. Dedicación: 48 horas Mensuales Noviembre de 2002 Diciembre de 2003 Actividades de administración - Miembro de consejo de centro - Cargo: Soporte de Tecnología Noviembre de 2002 Diciembre de 2003
+EXPERIENCIA	Desarrollo de Proyectos Dedicación: 0 horas Semanales Agosto de 2001 Diciembre de 2003 Actividades de investigación - Investigación y Desarrollo - Titulo: Desarrollo y Construcción de aplicaciones Agosto 2001 Diciembre 2003
+EXPERIENCIA	Lisys Ltda Dedicación: 20 horas Semanales Agosto de 2001 Marzo de 2003 Actividades de administración - Miembro de consejo de centro - Cargo: Jefe de proyectos Agosto de 2001 Marzo de 2003
+EXPERIENCIA	Departamento de Tecnología Dedicación: 0 horas Semanales Julio de 2000 Enero de 2001 Actividades de investigación - Pasantías - Titulo: Julio 2000 Enero 2001
+EXPERIENCIA	Structured Intelligence Dedicación: 48 horas Mensuales Julio de 2000 Enero de 2001 Actividades de administración - Miembro de consejo de centro - Cargo: Asistente de Tecnología Julio de 2000 Enero de 2001
+PROYECTO	Tipo de proyecto: Extensión y responsabilidad social CTI Desarrollo y Construcción de aplicaciones Inicio: Enero 2014 Duración Resumen proyecto enfocado en el desarrollo de software para brindar soluciones a las problematicas del Cesar y la Guajira.
+PROYECTO	Tipo de proyecto: Investigación y desarrollo Estudio para la determinación de la contribución de fuentes a la contaminación del aire intramural en las poblaciones aledañas a la vía férrea en Bosconia, Cesar, Colombia. Inicio: Noviembre 2016 Duración Resumen Esta propuesta de investigación contiene los elementos técnico-científicos necesarios para la aplicación de modelos de dinámica del aire en intramuros por primera vez en Colombia y basados en metodologías recientemente demostradas en Chile (Barraza et al. 2014). Este nuevo estudio extenderá y refinará estas metodologías, al mismo tiempo que aportará información esencial para tomar medidas en pro del mejoramiento de las condiciones ambientales y de salud en la zona carbonífera del Cesar, donde a la fecha no se han llevado a cabo estudios de este tipo. Estas metodologías serán después diseminadas a nivel nacional. Se considerarán fuentes importantes, tales como actividades ferroviarias, así como otras actividades de transporte y residenciales. Se ejecutarán modelos de calidad del aire intramural por primera vez en esta zona de influencia de transporte férreo de carbón mineral y con impacto de diversas fuentes. Se llevarán a cabo monitoreos y caracterización química de muestras a partir de esos resultados se espera establecer el aporte de la actividad de transporte férreo en la zona de estudio. El valor total del proyecto es de $45 millones de los cuales se solicitan $30 millones en efectivo a la UPC.
+PROYECTO	Tipo de proyecto: Investigación y desarrollo EVALUACIÓN DE LA PRODUCTIVIDAD DE LOS CULTIVOS DE CAFÉS ESPECIALES MEDIANTE LA OPTIMIZACIÓN DE MODELOS DE RIESGOS AGROCLIMÁTICOS Inicio: Enero 2017 Fin: Agosto 2018 Duración Resumen En el actual contexto de negocios es de vital importancia aumentar la productividad y competitividad de las organizaciones. El sector agropecuario está afectado por los factores climáticos que inciden de manera determinante en la productividad de los cultivos. El proyecto de investigación tiene como objetivo mejorar el rendimiento de los cultivos de cafés especiales mediante la optimización de los modelos de riesgo agroclimático, para tal fin, se analizarán los diferentes modelos de riesgos agroclimáticos. Posteriormente, se caracterizarán las unidades productivas en función de los modelos en referencia, para determinar el manejo óptimo de los cultivos de cafés especiales. Asimismo, se implementará el modelo planteado mediante una prueba piloto en una unidad productiva de la asociación ASOPROKIA. El presente proyecto es de tipo correlacional. El análisis de los datos se realizará mediante técnicas estadísticas, modelos de regresión, minería de datos, simulación y técnicas de optimización de acuerdo con la naturaleza de las variables de los modelos. El modelo de optimización se analizará mediante cómputo distribuido. Los resultados se orientan al mejoramiento de la productividad de los cultivos mediante la determinación del modelo de optimización para la productividad de los cafés especiales y su implementación, mediante prueba piloto, en una unidad productiva de la asociación objeto de estudio. Esta investigación, tienen un impacto desde el punto de vista práctico, debido a que se espera generar una innovación en el proceso de producción, aumentando la productividad promedio por hectárea a partir del análisis de las variables de riesgos agroclimáticos. Además, desde el punto de vista teórico, se propondrá un modelo de riesgo agroclimático adaptado y calibrado a los datos locales, para utilización por parte de los productos de la asociación de cafés especiales
+PROYECTO	Tipo de proyecto: Extensión y responsabilidad social CTI SMS Inicio: Duración Resumen
+PROYECTO	Tipo de proyecto: Extensión y responsabilidad social CTI SVS Inicio: Duración Resumen
+PROYECTO	Tipo de proyecto: Extensión y responsabilidad social CTI Banco Ganadero Inicio: Duración Resumen
+PROYECTO	Tipo de proyecto: Extensión y responsabilidad social CTI Caracol Inicio: Duración Resumen
+PROYECTO	Tipo de proyecto: Extensión y responsabilidad social CTI Metro de Medellin Inicio: Duración Resumen
+PROYECTO	Tipo de proyecto: Investigación y desarrollo Software Educativo Colegio Panama Inicio: Junio 2014 Fin: Diciembre 2015 Duración Resumen El trabajo expone el desarrollo de un escenario educativo, con el cual se busca complementar el desarrollo de la autoformación y aprendizaje de los niños del Colegio Bilingüe de Panamá en la etapa preescolar. Esta herramienta llamada ¿Kínder Play¿, está diseñada para que los niños aprendan de manera fácil y divertida los colores, partes del cuerpo humano, letras y números implementando el inglés como idioma extranjero como parte fundamental de su educación. El programa en si es de fácil compresión y cuya finalidad es crecer con las tendencias que hoy en día son más exigentes. Para los niños es más fácil aprender jugando que a su vez responderán favorablemente a la petición de los profesores, se llega más fácilmente a los niños ya que los niños van a mostrar un interés por la educación sino por la computación dándole una enseñanza teórica y práctica y en otros casos como vivencias demostrando que aprender es fácil y divertido
+PROYECTO	Tipo de proyecto: Investigación y desarrollo Software de Gestión de Recursos Humanos Inicio: Agosto 2014 Fin: Diciembre 2015 Duración Resumen Software para la gestion de inventarios de material EPP, Registro de Marcación, control de Alcoholemia.
+RECONOCIMIENTO	Nominación mejor Trabajo de Investigación en Maestía,PONTIFICIA UNIVERSIDAD JAVERIANA - Septiembrede 2008
+RECONOCIMIENTO	Nominación a Mejor Trabajo de Grado 2002,PONTIFICIA UNIVERSIDAD JAVERIANA - Abrilde 2002
+RECONOCIMIENTO	Mejor Bachiller Colegios Publicos del Cesar,Asamblea del Cesar - de 1994
+RECONOCIMIENTO	Reconocimiento Especial Investigador Asociado en el marco de la convocatoria 957 de 2024 del Ministerio de Ciencia, Tecnología e Innovación ¿ Minciencias,UNIVERSIDAD DE SANTANDER - Diciembrede 2025
+PRODUCTO	P1	Gestión del conocimiento en un grupo de investigación en ingeniería - Knowledge management in an engineering research group	Artículos	1	2018	Producción bibliográfica - Artículo - Publicado en revista especializada	Producción bibliográfica - Artículo - Publicado en revista especializada	http://www.revistaespacios.com/a18v39n07/18390705.html		0798-1015							ADITH BISMARCK PEREZ OROZCO, VANESSA PAOLA PERTUZ PERALTA, "Gestión del conocimiento en un grupo de investigación en ingeniería - Knowledge management in an engineering research group" . En: Venezuela ESPACIOS ISSN: 0798-1015 ed: Revista espacios v. 39 fasc. 7 p.5 - 19 ,2018, DOI: http://www.revistaespacios.com/a18v39n07/18390705.html Palabras: Cooperación, Gerencia,		
+AUTOR	ADITH BISMARCK PEREZ OROZCO
+AUTOR	VANESSA PAOLA PERTUZ PERALTA
+PRODUCTO_FIN
+PRODUCTO	P2	Análisis de la investigación, desarrollo e innovación en Colombia desde una perspectiva compleja	Capítulos de libro	1	2018	Capítulos de libro	Capítulos de libro		978-958-59-1279-3								Tipo: Capítulo de libro ADITH BISMARCK PEREZ OROZCO, Tipo: Capítulo de libro VANESSA PAOLA PERTUZ PERALTA, "Análisis de la investigación, desarrollo e innovación en Colombia desde una perspectiva compleja" libro prueba ingenio . En: Colombia ISBN: 978-958-59-1279-3 ed: Universidad De Cartagena , v. , p.391 - 401 N/A ,2018 Palabras: Educación, Innovación, Cooperación, Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Ingeniería Industrial, Ciencias Sociales -- Ciencias de la Educación -- Educación General (Incluye Capacitación, Pedagogía), Sectores: Educación - Educación superior,		
+AUTOR	Tipo: Capítulo de libro VANESSA PAOLA PERTUZ PERALTA
+PRODUCTO_FIN
+PRODUCTO	P3	Un Análisis de los Tipos de Capacidades de Innovación en Medianas Empresas	Textos en publicaciones no científicas	1	2019	Producción bibliográfica - Otro artículo publicado - Revista de divulgación	Producción bibliográfica - Otro artículo publicado - Revista de divulgación			1690-8627							ADITH BISMARCK PEREZ OROZCO, VANESSA PAOLA PERTUZ PERALTA, "Un Análisis de los Tipos de Capacidades de Innovación en Medianas Empresas" En: Estados Unidos. 2019. Revista Iberoamericana En Sistemas, Cibernética E Informática. ISSN: 1690-8627 p. 14 - 18 v.16 Palabras: Gerencia, Innovación, Emprendimiento, Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Ingeniería Industrial,		
+AUTOR	ADITH BISMARCK PEREZ OROZCO
+AUTOR	VANESSA PAOLA PERTUZ PERALTA
+PRODUCTO_FIN
+PRODUCTO	P4	Nombre del titular:, Contacto:	Secretos empresariales	0	0	Secretos empresariales	Secretos empresariales										ACH COLOMBIA S.A. - COM3988, Nombre del titular: , Contacto:		
+AUTOR	ACH COLOMBIA S.A. - COM3988
+PRODUCTO_FIN
+PRODUCTO	P5	IAC: SOFTWARE PARA CAPTURA WEB DE INFORMACIÓN DE MODELOS DE RIESGO AGROCLIMATICO AQUACROP	Softwares	1	2017	Producción técnica - Softwares - Computacional	Producción técnica - Softwares - Computacional										ADITH BISMARCK PEREZ OROZCO, ENRIQUE GONZALEZ GUERRERO, VANESSA PAOLA PERTUZ PERALTA, MARIA ISABEL ORTIZ IGLESIAS, IAC: SOFTWARE PARA CAPTURA WEB DE INFORMACIÓN DE MODELOS DE RIESGO AGROCLIMATICO AQUACROP, Nombre comercial: IAC, contrato/registro: 073-16, . En: Colombia, ,2017, . plataforma: WEB APACHE / PHP, . ambiente: WEB, Palabras: Automatización, Optimización, Sistema de Información, Simulación, Areas: Ciencias Naturales -- Computación y Ciencias de la Información -- Ciencias de la Computación, Sectores: Desarrollo de programas (software) y prestación de servicios en informática - Desarrollo de programas (software), Agricultura, pecuaria, silvicultura, explotación forestal - Producción vegetal,		
+AUTOR	ADITH BISMARCK PEREZ OROZCO
+AUTOR	ENRIQUE GONZALEZ GUERRERO
+AUTOR	VANESSA PAOLA PERTUZ PERALTA
+AUTOR	MARIA ISABEL ORTIZ IGLESIAS
+PRODUCTO_FIN
+PRODUCTO	P6	Prueba	Procesos o técnicas	0	2025	Producción técnica - Innovación de proceso o procedimiento	Producción técnica - Innovación de proceso o procedimiento										ADITH BISMARCK PEREZ OROZCO, Prueba, Nombre comercial: , contrato/registro: , . En: Colombia, ,2025, Areas: Ciencias Naturales -- Computación y Ciencias de la Información -- Ciencias de la Computación,		
+AUTOR	ADITH BISMARCK PEREZ OROZCO
+PRODUCTO_FIN
+PRODUCTO	P7	TECNOLOGÍA E INNOVACIÓN PARA SOLUCIONES EN SALUD S.A.S, Nit 900853459-1, Registrado ante la c´mara el: 2015-06-11 00:00:00.0, Palabras: Cooperación, Sistema de Información, Inteligencia Artificial, Areas: Ciencias Naturales -- Computación y Ciencias de la Información -- Ciencias de la Computación, Ingeniería y Tecnología -- Ingeniería Médica -- Tecnología Médica de Laboratorio (Análisis de Muestras, Tecnologías para el Diagnóstico), Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica	Productos tecnológicos	1	2015	Producción técnica - Empresa de base tecnológica - Spin-off	Producción técnica - Empresa de base tecnológica - Spin-off										ADITH BISMARCK PEREZ OROZCO, JOHN JAIRO PATINO VANEGAS, TECNOLOGÍA E INNOVACIÓN PARA SOLUCIONES EN SALUD S.A.S,, Nit 900853459-1 , Registrado ante la c´mara el: 2015-06-11 00:00:00.0, Palabras: Cooperación, Sistema de Información, Inteligencia Artificial, Areas: Ciencias Naturales -- Computación y Ciencias de la Información -- Ciencias de la Computación, Ingeniería y Tecnología -- Ingeniería Médica -- Tecnología Médica de Laboratorio (Análisis de Muestras, Tecnologías para el Diagnóstico), Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,		
+AUTOR	ADITH BISMARCK PEREZ OROZCO
+AUTOR	JOHN JAIRO PATINO VANEGAS
+PRODUCTO_FIN
+FIN_INVESTIGADOR
+FIN
